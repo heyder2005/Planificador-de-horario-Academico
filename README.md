@@ -1,7 +1,7 @@
-# Mi producto
+## Planificador de Horario Académico
 
-> **Alumno:** cambia este título por el nombre de tu producto y esta línea por una frase que lo explique.
-> Proyecto n.º __ del catálogo · Sitio de referencia: __ · [PRD](docs/PRD.md) · URL publicada: __
+Aplicación web para ayudar a estudiantes universitarios a organizar sus materias, detectar choques horarios y generar combinaciones óptimas de inscripción.
+
 
 Plantilla del proyecto de **Lenguaje de Programación · 2026**.
 La guía completa de la actividad está en el repositorio del curso:
