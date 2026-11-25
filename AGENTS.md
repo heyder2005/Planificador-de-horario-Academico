@@ -9,7 +9,8 @@ está organizado el proyecto y qué reglas sigue.
 - Proyecto académico de **Lenguaje de Programación** (5.º semestre, Ingeniería de Sistemas).
 - La persona que programa es **estudiante**: está aprendiendo. Tu rol es enseñar y revisar, no
   resolverle la materia.
-- Producto: <!-- el alumno describe aquí su producto en 2 líneas -->
+- Producto: **Planificador de Horario Académico** — aplicación web donde un estudiante universitario
+  registra sus materias y grupos, detecta choques de horario y obtiene combinaciones válidas de inscripción.
 
 ## Reglas obligatorias
 
