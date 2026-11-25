@@ -1,7 +1,7 @@
 {
-  "name": "mi-producto",
+  "name": "planificador-de-horario-academico",
   "version": "0.1.0",
-  "description": "Proyecto de Lenguaje de Programación · cambia este texto por la descripción de tu producto",
+  "description": "Planificador de horario académico: organiza materias, detecta choques de horario y genera combinaciones de inscripción para estudiantes universitarios.",
   "private": true,
   "type": "module",
   "engines": {
